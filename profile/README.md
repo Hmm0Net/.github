@@ -16,7 +16,7 @@ Welcome to the official Hmm0Net github profile! Here you can find all of our pro
 *Hmmlopl - API & Backend* 
 
 ### Special thanks
-Jay - For setting us use his servers for free!
+Jay - For letting us use his servers for free!
 
 #
 
