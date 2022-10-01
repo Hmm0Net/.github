@@ -1,7 +1,7 @@
 <p align="center"how><img src="https://avatars.githubusercontent.com/u/108836539?s=200&v=4" style="width:8rem;"/></p>
 
 # Hmm0Net
-Welcome to the official Hmm0Net github profile! Here you can find all of our projects, and our website!
+Welcome to the official Hmm0Net github profile! Here you can find all of our projects.
 
 
 ### Tech stack
